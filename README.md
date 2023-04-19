@@ -10,4 +10,4 @@ This application aims to calculate the best fuel (among the 3 types available in
 ![AA Br Best Car Fuel](https://github.com/MarceloTinoco/AA_Br_Best_Car_Fuel/blob/master/AA_Br_COMBUST%C3%8DVEL_IDEAL_GIF.gif)
 
 ### VÍDEO DEMONSTRATIVO COMPLETO (YOUTUBE) DO APLICATIVO ESPELHADO NO ANDROID AUTO (VERSÃO MOBILE):
-[![AA Br Best Car Fuel](https://marcelotinocotechnology.com/wp-content/uploads/CI-IMG.png)](https://www.youtube.com/watch?v=jkN3AQZ-C7s)
+[![AA Br Best Car Fuel](https://marcelotinocotechnology.com/wp-content/uploads/CI-IMG.png)](https://www.youtube.com/watch?v=jkN3AQZ-C7s).
